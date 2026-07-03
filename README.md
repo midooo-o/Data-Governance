@@ -48,7 +48,7 @@ Data-Governance/
 │
 ├── dashboard/
 │   └── Sales Dashboard.pbix
-│
+|   └── Sales Dashboard.pdf
 ├── DG_PROJECT.ipynb
 ├── sweetviz_report.html
 ├── requirements.txt
